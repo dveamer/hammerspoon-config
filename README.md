@@ -8,4 +8,4 @@
 
 맥 장비에 HammerSpoon을 설치하신 뒤 ```init.lua``` 파일과 ```modules``` 디렉토리를 ```~/.hammerspoon/``` 에 위치시키면 됩니다.  
 
-단축키에 대한 설명은 [링크](http://dveamer.github.io/preferences/hammerspoon.html#%EB%8B%A8%EC%B6%95%ED%82%A4%20%EC%84%A4%EB%AA%85)를 참고하시기 바랍니다.  
+단축키에 대한 설명은 [링크](http://dveamer.github.io/preferences/HammerSpoon.html#%EB%8B%A8%EC%B6%95%ED%82%A4%20%EC%84%A4%EB%AA%85)를 참고하시기 바랍니다.  
